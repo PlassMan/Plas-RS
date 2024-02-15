@@ -2,7 +2,7 @@
 # 1
 # two f
 
-echo "# randomCatFacts" >> README.md
+echo "# randomCatFacts" >> README.md1
 git init
 git add README.md
 git commit -m "first commit"
